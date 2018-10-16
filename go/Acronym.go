@@ -7,11 +7,11 @@ import (
 
 const testVersion = 3
 
-func Abbreviate(in string) string {
-	words := strings.FieldsFunc(in, Delimiter)
+func Abreviado(in string) string {
+	palavras := strings.FieldsFunc(in, Delimitador)
 	var out string
-	for _, word := range words {
-		out += string(word[0])
+	for _, palavra := range palavras {
+		out += string(palavra[0])
 	}
 
 	return strings.ToUpper(out)
