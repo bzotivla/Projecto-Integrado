@@ -2,7 +2,7 @@ package bob
 
 import "strings"
 
-const testVersion = 2
+const versaoTeste = 2
 
 func Ola(s string) string {
 	s = strings.TrimSpace(s)
