@@ -1,5 +1,5 @@
 # Projecto-Integrado
 
 
-Beatriz Alvito 
+Beatriz Alvito &
 Pedro Nunes 
