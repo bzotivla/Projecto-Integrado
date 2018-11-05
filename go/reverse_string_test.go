@@ -32,9 +32,7 @@ func BenchmarkReverse(b *testing.B) {
 	}
 }
 
-// mutiByteCases adds UTF-8 multi-byte case,
-// since the canonical-data.json (generator data source for cases_test.go)
-// doesn't have any such cases.
+
 var multiByteCases = []reverseTestCase{
 	{
 		description: "a multi-byte test case",
