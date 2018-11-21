@@ -6,8 +6,10 @@ import (
 )
 
 func TestReverse(t *testing.T) {
-	for _, testCase := range append(testCases, multiByteCases...) {
-		if res := String(testCase.input); res != testCase.expected {
+	for _, testCase := range append(testCases, multiByteCases...) 
+	{
+		if res := String(testCase.input); res != testCase.expected 
+		{
 			t.Fatalf("FAIL: %s(%s)\nExpected: %q\nActual: %q",
 				testCase.description, testCase.input, testCase.expected, res)
 		}
