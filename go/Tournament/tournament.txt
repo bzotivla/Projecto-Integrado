@@ -1,4 +1,4 @@
-# Tournament
+ # Tournament
 
 Tally the results of a small football competition.
 
