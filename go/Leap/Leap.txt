@@ -1,4 +1,4 @@
-Leap
+ Leap
 Write a program that will take a year and report if it is a leap year.
 
 The tricky thing here is that a leap year occurs:
