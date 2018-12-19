@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-// type for testing cipher encoding alone, without requiring any text prep.
+//  type for testing cipher encoding alone, without requiring any text prep.
 type prepped struct {
 	pt string // prepped text == decoded plain text
 	ct string // cipher text
