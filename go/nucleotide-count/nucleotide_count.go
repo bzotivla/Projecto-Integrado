@@ -1,7 +1,7 @@
 package dna
 
-// Histogram is a mapping from nucleotide to its count in given DNA.
-// Choose a suitable data type.
+//  Histogram is a mapping from nucleotide to its count in given DNA.
+//  Choose a suitable data type.
 type Histogram
 
 // DNA is a list of nucleotides. Choose a suitable data type.
