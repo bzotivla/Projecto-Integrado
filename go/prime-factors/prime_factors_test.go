@@ -1,6 +1,6 @@
 package prime
 
-// Return prime factors in increasing order
+//  Return prime factors in increasing order
 
 import (
 	"reflect"
