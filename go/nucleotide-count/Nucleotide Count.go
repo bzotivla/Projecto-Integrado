@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-//Histogram counts the occurance of each nucleotide
+// Histogram counts the occurance of each nucleotide
 type Histogram map[byte]int
 
 //Dna is a string of nucleotides
