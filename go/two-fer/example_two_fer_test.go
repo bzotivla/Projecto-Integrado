@@ -2,7 +2,7 @@ package twofer
 
 import "fmt"
 
-// ExampleShareWith() is an Example function. Examples are testable snippets of
+//  ExampleShareWith() is an Example function. Examples are testable snippets of
 // Go code that are used for documenting and verifying the package API.
 // They may be present in some exercises to demonstrate the expected use of the
 // exercise API and can be run as part of a package's test suite.
