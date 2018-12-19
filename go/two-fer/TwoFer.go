@@ -3,7 +3,7 @@ package twofer
 import "fmt"
 
  
-const baseOutput string = "One for %v, one for me."
+const baseOutput string = "One for %v, One for me."
 
  
 func ShareWith(input string) string {
