@@ -2,7 +2,7 @@ package twofer
 
 import "testing"
 
-// Define a function ShareWith(string) string.
+//  Define a function ShareWith(string) string.
 
 var tests = []struct {
 	name, expected string
