@@ -1,6 +1,6 @@
 package prime
 
-//TestVersion is the version of the unit tests this will pass
+// TestVersion is the version of the unit tests this will pass
 const TestVersion = 1
 
 /*Factors finds all prime factors of a number.*/
