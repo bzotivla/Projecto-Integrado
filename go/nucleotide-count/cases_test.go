@@ -1,8 +1,8 @@
 package dna
 
-// Source: exercism/problem-specifications
-// Commit: 879a096 nucleotide-count: Apply new "input" policy
-// Problem Specifications Version: 1.3.0
+//  Source: exercism/problem-specifications
+//   Commit: 879a096 nucleotide-count: Apply new "input" policy
+//  Problem Specifications Version: 1.3.0
 
 // count all nucleotides in a strand
 var testCases = []struct {
