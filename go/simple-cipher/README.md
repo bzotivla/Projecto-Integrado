@@ -1,4 +1,4 @@
-# Simple Cipher
+#  Simple Cipher
 
 Implement a simple shift cipher like Caesar and a more secure
 substitution cipher.
