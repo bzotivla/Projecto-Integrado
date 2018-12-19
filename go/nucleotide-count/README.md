@@ -1,4 +1,4 @@
-# Nucleotide Count
+#  Nucleotide Count
 
 Given a single stranded DNA string, compute how many times each nucleotide occurs in the string.
 
