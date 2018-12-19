@@ -1,8 +1,8 @@
 package prime
 
-// Source: exercism/problem-specifications
-// Commit: d928874 prime-factors: apply "input" policy
-// Problem Specifications Version: 1.1.0
+//  Source: exercism/problem-specifications
+//  Commit: d928874 prime-factors: apply "input" policy
+//  Problem Specifications Version: 1.1.0
 
 var tests = []struct {
 	description string
