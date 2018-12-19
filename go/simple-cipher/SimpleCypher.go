@@ -4,7 +4,7 @@ import (
 	"unicode"
 )
 
-//Cipher encrypts and decrypts a string.
+// Cipher encrypts and decrypts a string.
 type Cipher interface {
 	Encode(string) string
 	Decode(string) string
