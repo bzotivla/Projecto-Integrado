@@ -12,7 +12,7 @@ Here is an analogy:
 - legos are to lego houses as
 - words are to sentences as...
 
-## Implementation
+##  Implementation
 
 You should define a custom type 'DNA' with a function 'Counts' that outputs two values: 
 
